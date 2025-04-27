@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects. <br>🌱 I’m currently learning MERN Stack and Data Structures<br>💬 Ask me about JAVA, Python.
+🔭 I’m currently working on Full Stack Projects. <br>🌱 I’m currently learning React.js and JavaSript.<br>💬 Ask me about JAVA, Python.
 
 
 # 💻 Tech Stack:
