@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Deep Learning Projects to solve real-world challenges.  <br>🌱 Expanding my skills in DSA, Python, and the MERN Stack.  <br>💬 Open to discussions on Machine Learning, Frontend Development.  <br>🚀 Passionate about building impactful solutions through code and creativity.  <br>📚 Always learning, experimenting, and sharing knowledge with the community.  <br>
+🔭 Currently working on Machine Learning Projects to solve real-world challenges.  <br>🌱 Expanding my skills in DSA, Python, and the MERN Stack.  <br>💬 Open to discussions on Machine Learning, Frontend Development.  <br>🚀 Passionate about building impactful solutions through code and creativity.  <br>📚 Always learning, experimenting, and sharing knowledge with the community.  <br>
 
 
 ## 🌐 Socials:
